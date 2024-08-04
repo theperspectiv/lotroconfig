@@ -1,0 +1,21 @@
+return 
+{
+	["FontSize"] = "14",
+	["DefaultNote"] = "1",
+	["MiniMode"] = false,
+	["WindowOpacity"] = "0.9",
+	["WindowPosition"] = 
+	{
+		["Top"] = "323",
+		["MiniHeight"] = "400",
+		["Height"] = "500",
+		["MiniWidth"] = "400",
+		["Left"] = "1043",
+		["Width"] = "500"
+	},
+	["ToggleTop"] = "563",
+	["DefaultBank"] = "1",
+	["ToggleVisible"] = "yes",
+	["ToggleLeft"] = "1883",
+	["WindowVisible"] = "no"
+}

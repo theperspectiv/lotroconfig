@@ -1,0 +1,90 @@
+return 
+{
+	["Version"] = "1.0",
+	["InstrSlots"] = 
+	{
+		["visible"] = "yes",
+		["visHForced"] = "false",
+		["9"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["1"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["8"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["3"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["2"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["5"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["4"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["7"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["6"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["14"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["15"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["16"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["number"] = "16",
+		["13"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["12"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["11"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		},
+		["10"] = 
+		{
+			["qsType"] = "nil",
+			["qsData"] = ""
+		}
+	}
+}

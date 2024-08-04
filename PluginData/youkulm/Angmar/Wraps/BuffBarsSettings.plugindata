@@ -1,0 +1,33 @@
+return 
+{
+	["log"] = 
+	{
+		["enabled"] = false,
+		["logName"] = true,
+		["logId"] = true,
+		["logCurable"] = true,
+		["logCategory"] = true,
+		["showDebuffs"] = true,
+		["showBuffs"] = true,
+		["logDebuff"] = true,
+		["logDescription"] = true,
+		["logTarget"] = true,
+		["showMobDebuffs"] = true,
+		["logDuration"] = true,
+		["logTime"] = true,
+		["showMobCC"] = true
+	},
+	["version"] = "<num>13.000000</num>",
+	["windows"] = 
+	{
+
+	},
+	["sliders"] = 
+	{
+
+	},
+	["quickslots"] = 
+	{
+
+	}
+}

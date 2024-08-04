@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<PluginOptions>
+
+  <AutoloadOptions>
+    <Plugin AllCharacters="true" Name="Songbook"/>
+    <Plugin AllCharacters="true" Name="Lotropad"/>
+    <Plugin AllCharacters="true" Name="SongbookBB"/>
+    <Plugin AllCharacters="true" Name="BuffBars"/>
+    <Plugin AllCharacters="true" Name="Palantir III"/>
+  </AutoloadOptions>
+
+</PluginOptions>

@@ -1,0 +1,11 @@
+return 
+{
+	["PowerTextDisplay"] = "4",
+	["GroupTextDisplay"] = true,
+	["PowerTextPosition"] = "1",
+	["VitalsTextDisplay"] = "3",
+	["VitalsTextPosition"] = "5",
+	["GroupTextPosition"] = true,
+	["MoraleTextPosition"] = "1",
+	["MoraleTextDisplay"] = "4"
+}

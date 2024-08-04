@@ -1,0 +1,535 @@
+return 
+{
+	["Slaps"] = 
+	{
+		["selectedBar"] = 0.000000,
+		["version"] = "v3.2.6",
+		["menuLanguage"] = "en",
+		["autoCreatedBars"] = 
+		{
+			[13.000000] = 
+			{
+				["barName"] = "Pets"
+			},
+			[7.000000] = 
+			{
+				["barName"] = "Travel"
+			},
+			[1.000000] = 
+			{
+				["barName"] = "Battle Flow 3+"
+			},
+			[2.000000] = 
+			{
+				["barName"] = "Travel"
+			},
+			[4.000000] = 
+			{
+				["barName"] = "Pets"
+			},
+			[5.000000] = 
+			{
+				["barName"] = "Crafting"
+			},
+			[3.000000] = 
+			{
+				["barName"] = "Mounts"
+			},
+			[14.000000] = 
+			{
+				["barName"] = "Crafting"
+			},
+			[12.000000] = 
+			{
+				["barName"] = "Mounts"
+			},
+			[11.000000] = 
+			{
+				["barName"] = "Travel"
+			}
+		},
+		["bars"] = 
+		{
+			[11.000000] = 
+			{
+				["backgroundColorBlue"] = 0.000000,
+				["onMouseOver"] = 1.000000,
+				["relationalY"] = 0.909259,
+				["opacity"] = 1.000000,
+				["quickslotColumns"] = 1.000000,
+				["locked"] = false,
+				["quickslotRows"] = 1.000000,
+				["visible"] = true,
+				["backgroundColorGreen"] = 0.000000,
+				["quickslots"] = 
+				{
+					[1.000000] = 
+					{
+						["Data"] = "0x700256BA",
+						["Type"] = 6.000000
+					}
+				},
+				["quickslotSpacing"] = 1.000000,
+				["quickslotSize"] = 36.000000,
+				["id"] = 11.000000,
+				["useFading"] = false,
+				["fadeOpacity"] = 1.000000,
+				["quickslotCount"] = 1.000000,
+				["y"] = 981.000000,
+				["x"] = 1202.000000,
+				["events"] = 
+				{
+					["triggered"] = 
+					{
+						["healthTrigger"] = 0.250000,
+						["powerTrigger"] = 0.250000,
+						["triggerOnClassBuffActive"] = true
+					},
+					["inventory"] = 
+					{
+						["quantity"] = 50.000000
+					}
+				},
+				["barName"] = "Travel",
+				["relationalX"] = 0.626042,
+				["barType"] = 1.000000,
+				["useBackgroundColor"] = false,
+				["backgroundColorRed"] = 0.000000
+			},
+			[13.000000] = 
+			{
+				["backgroundColorBlue"] = 0.000000,
+				["onMouseOver"] = 1.000000,
+				["relationalY"] = 0.840741,
+				["opacity"] = 1.000000,
+				["quickslotColumns"] = 3.000000,
+				["locked"] = false,
+				["quickslotRows"] = 1.000000,
+				["visible"] = true,
+				["backgroundColorGreen"] = 0.000000,
+				["quickslots"] = 
+				{
+					[1.000000] = 
+					{
+						["Data"] = "0x700578D5",
+						["Type"] = 6.000000
+					},
+					[2.000000] = 
+					{
+						["Data"] = "0x70057349",
+						["Type"] = 6.000000
+					}
+				},
+				["quickslotSpacing"] = 1.000000,
+				["quickslotSize"] = 36.000000,
+				["id"] = 13.000000,
+				["useFading"] = false,
+				["fadeOpacity"] = 1.000000,
+				["quickslotCount"] = 3.000000,
+				["y"] = 908.000000,
+				["x"] = 1203.000000,
+				["events"] = 
+				{
+					["triggered"] = 
+					{
+						["healthTrigger"] = 0.250000,
+						["powerTrigger"] = 0.250000,
+						["triggerOnClassBuffActive"] = true
+					},
+					["inventory"] = 
+					{
+						["quantity"] = 50.000000
+					}
+				},
+				["barName"] = "Pets",
+				["relationalX"] = 0.626563,
+				["barType"] = 1.000000,
+				["useBackgroundColor"] = false,
+				["backgroundColorRed"] = 0.000000
+			},
+			[12.000000] = 
+			{
+				["backgroundColorBlue"] = 0.000000,
+				["onMouseOver"] = 1.000000,
+				["relationalY"] = 0.907407,
+				["opacity"] = 1.000000,
+				["quickslotColumns"] = 5.000000,
+				["locked"] = false,
+				["quickslotRows"] = 1.000000,
+				["visible"] = true,
+				["backgroundColorGreen"] = 0.000000,
+				["quickslots"] = 
+				{
+					[1.000000] = 
+					{
+						["Data"] = "0x700271F6",
+						["Type"] = 6.000000
+					},
+					[2.000000] = 
+					{
+						["Data"] = "0x700271F5",
+						["Type"] = 6.000000
+					},
+					[4.000000] = 
+					{
+						["Data"] = "0x7002D689",
+						["Type"] = 6.000000
+					},
+					[3.000000] = 
+					{
+						["Data"] = "0x700271F3",
+						["Type"] = 6.000000
+					}
+				},
+				["quickslotSpacing"] = 1.000000,
+				["quickslotSize"] = 36.000000,
+				["id"] = 12.000000,
+				["useFading"] = false,
+				["fadeOpacity"] = 1.000000,
+				["quickslotCount"] = 5.000000,
+				["y"] = 979.000000,
+				["x"] = 1236.000000,
+				["events"] = 
+				{
+					["triggered"] = 
+					{
+						["healthTrigger"] = 0.250000,
+						["powerTrigger"] = 0.250000,
+						["triggerOnClassBuffActive"] = true
+					},
+					["inventory"] = 
+					{
+						["quantity"] = 50.000000
+					}
+				},
+				["barName"] = "Mounts",
+				["relationalX"] = 0.643750,
+				["barType"] = 1.000000,
+				["useBackgroundColor"] = false,
+				["backgroundColorRed"] = 0.000000
+			},
+			[14.000000] = 
+			{
+				["backgroundColorBlue"] = 0.000000,
+				["onMouseOver"] = 1.000000,
+				["relationalY"] = 0.874074,
+				["opacity"] = 1.000000,
+				["quickslotColumns"] = 3.000000,
+				["locked"] = false,
+				["quickslotRows"] = 1.000000,
+				["visible"] = true,
+				["backgroundColorGreen"] = 0.000000,
+				["quickslots"] = 
+				{
+					[1.000000] = 
+					{
+						["Data"] = "0x7000397A",
+						["Type"] = 6.000000
+					},
+					[2.000000] = 
+					{
+						["Data"] = "0x7000AF34",
+						["Type"] = 6.000000
+					},
+					[3.000000] = 
+					{
+						["Data"] = "0x70003953",
+						["Type"] = 6.000000
+					}
+				},
+				["quickslotSpacing"] = 1.000000,
+				["quickslotSize"] = 36.000000,
+				["id"] = 14.000000,
+				["useFading"] = false,
+				["fadeOpacity"] = 1.000000,
+				["quickslotCount"] = 3.000000,
+				["y"] = 943.000000,
+				["x"] = 1202.000000,
+				["events"] = 
+				{
+					["triggered"] = 
+					{
+						["healthTrigger"] = 0.250000,
+						["powerTrigger"] = 0.250000,
+						["triggerOnClassBuffActive"] = true
+					},
+					["inventory"] = 
+					{
+						["quantity"] = 50.000000
+					}
+				},
+				["barName"] = "Crafting",
+				["relationalX"] = 0.626042,
+				["barType"] = 1.000000,
+				["useBackgroundColor"] = false,
+				["backgroundColorRed"] = 0.000000
+			}
+		},
+		["barMode"] = 1.000000,
+		["nextBarId"] = 14.000000
+	},
+	["Wraps"] = 
+	{
+		["selectedBar"] = 0.000000,
+		["version"] = "v3.2.6",
+		["menuLanguage"] = "en",
+		["nextBarId"] = 4.000000,
+		["bars"] = 
+		{
+			[1.000000] = 
+			{
+				["visible"] = false,
+				["onMouseOver"] = 1.000000,
+				["relationalY"] = 0.324074,
+				["opacity"] = 1.000000,
+				["quickslotColumns"] = 2.000000,
+				["locked"] = false,
+				["quickslotRows"] = 1.000000,
+				["useFading"] = false,
+				["backgroundColorGreen"] = 0.000000,
+				["quickslots"] = 
+				{
+
+				},
+				["quickslotSpacing"] = 1.000000,
+				["quickslotSize"] = 36.000000,
+				["id"] = 1.000000,
+				["backgroundColorBlue"] = 0.000000,
+				["fadeOpacity"] = 1.000000,
+				["quickslotCount"] = 2.000000,
+				["y"] = 350.000000,
+				["x"] = 240.000000,
+				["events"] = 
+				{
+					["triggered"] = 
+					{
+						["healthTrigger"] = 0.250000,
+						["triggerBuffType"] = "or",
+						["powerTrigger"] = 0.250000,
+						["triggerOnClassBuffActive"] = true
+					},
+					["inventory"] = 
+					{
+						["quantity"] = 50.000000
+					},
+					["effects"] = 
+					{
+						["Overpower"] = true
+					}
+				},
+				["barName"] = "Overpower",
+				["relationalX"] = 0.125000,
+				["barType"] = 1.000000,
+				["useBackgroundColor"] = false,
+				["backgroundColorRed"] = 0.000000
+			},
+			[2.000000] = 
+			{
+				["visible"] = false,
+				["onMouseOver"] = 1.000000,
+				["relationalY"] = 0.370370,
+				["opacity"] = 1.000000,
+				["quickslotColumns"] = 4.000000,
+				["locked"] = false,
+				["quickslotRows"] = 1.000000,
+				["useFading"] = false,
+				["backgroundColorGreen"] = 0.000000,
+				["quickslots"] = 
+				{
+
+				},
+				["quickslotSpacing"] = 1.000000,
+				["quickslotSize"] = 36.000000,
+				["id"] = 2.000000,
+				["backgroundColorBlue"] = 0.000000,
+				["fadeOpacity"] = 1.000000,
+				["quickslotCount"] = 4.000000,
+				["y"] = 400.000000,
+				["x"] = 240.000000,
+				["events"] = 
+				{
+					["triggered"] = 
+					{
+						["healthTrigger"] = 0.250000,
+						["triggerBuffType"] = "or",
+						["powerTrigger"] = 0.250000,
+						["triggerOnClassBuffActive"] = true
+					},
+					["inventory"] = 
+					{
+						["quantity"] = 50.000000
+					},
+					["effects"] = 
+					{
+						["Parry Response"] = true,
+						["Retaliation"] = true
+					}
+				},
+				["barName"] = "Parry",
+				["relationalX"] = 0.125000,
+				["barType"] = 1.000000,
+				["useBackgroundColor"] = false,
+				["backgroundColorRed"] = 0.000000
+			},
+			[4.000000] = 
+			{
+				["visible"] = false,
+				["onMouseOver"] = 1.000000,
+				["relationalY"] = 0.416667,
+				["opacity"] = 1.000000,
+				["quickslotColumns"] = 4.000000,
+				["locked"] = false,
+				["quickslotRows"] = 1.000000,
+				["useFading"] = false,
+				["backgroundColorGreen"] = 0.000000,
+				["quickslots"] = 
+				{
+					[1.000000] = 
+					{
+						["Data"] = "0x7000305D",
+						["Type"] = 6.000000
+					}
+				},
+				["quickslotSpacing"] = 1.000000,
+				["quickslotSize"] = 36.000000,
+				["id"] = 4.000000,
+				["backgroundColorBlue"] = 0.000000,
+				["fadeOpacity"] = 1.000000,
+				["quickslotCount"] = 4.000000,
+				["y"] = 450.000000,
+				["x"] = 240.000000,
+				["events"] = 
+				{
+					["triggered"] = 
+					{
+						["healthTrigger"] = 0.250000,
+						["triggerBuffType"] = "or",
+						["powerTrigger"] = 0.250000,
+						["triggerOnClassBuffActive"] = true
+					},
+					["inventory"] = 
+					{
+						["quantity"] = 50.000000
+					},
+					["effects"] = 
+					{
+						["Block Response"] = true
+					}
+				},
+				["barName"] = "Block",
+				["relationalX"] = 0.125000,
+				["barType"] = 1.000000,
+				["useBackgroundColor"] = false,
+				["backgroundColorRed"] = 0.000000
+			},
+			[3.000000] = 
+			{
+				["visible"] = false,
+				["onMouseOver"] = 1.000000,
+				["relationalY"] = 0.277778,
+				["opacity"] = 0.350000,
+				["quickslotColumns"] = 3.000000,
+				["locked"] = false,
+				["quickslotRows"] = 1.000000,
+				["useFading"] = false,
+				["backgroundColorGreen"] = 0.000000,
+				["quickslots"] = 
+				{
+					[1.000000] = 
+					{
+						["Data"] = "0x70003EDF",
+						["Type"] = 6.000000
+					}
+				},
+				["quickslotSpacing"] = 1.000000,
+				["quickslotSize"] = 36.000000,
+				["id"] = 3.000000,
+				["backgroundColorBlue"] = 0.000000,
+				["fadeOpacity"] = 1.000000,
+				["quickslotCount"] = 3.000000,
+				["y"] = 300.000000,
+				["x"] = 240.000000,
+				["events"] = 
+				{
+					["triggered"] = 
+					{
+						["isControl"] = true,
+						["healthTrigger"] = 0.000000,
+						["powerTrigger"] = 0.000000,
+						["triggerOnClassBuffActive"] = false
+					},
+					["inventory"] = 
+					{
+						["quantity"] = 50.000000
+					},
+					["effects"] = 
+					{
+						["Overpower"] = true,
+						["Guardian's Block Stance"] = true,
+						["Guardian's Parry Stance"] = true
+					}
+				},
+				["barName"] = "Stance",
+				["relationalX"] = 0.125000,
+				["barType"] = 1.000000,
+				["useBackgroundColor"] = true,
+				["backgroundColorRed"] = 1.000000
+			}
+		},
+		["barMode"] = 1.000000,
+		["autoCreatedBars"] = 
+		{
+			[1.000000] = 
+			{
+				["barName"] = "Overpower"
+			},
+			[2.000000] = 
+			{
+				["barName"] = "Parry"
+			},
+			[4.000000] = 
+			{
+				["barName"] = "Block"
+			},
+			[3.000000] = 
+			{
+				["barName"] = "Stance"
+			}
+		}
+	},
+	["Snaps"] = 
+	{
+		["selectedBar"] = 0.000000,
+		["version"] = "v3.2.6",
+		["menuLanguage"] = "en",
+		["barMode"] = 1.000000,
+		["bars"] = 
+		{
+
+		},
+		["autoCreatedBars"] = 
+		{
+			[1.000000] = 
+			{
+				["barName"] = "Charge"
+			},
+			[2.000000] = 
+			{
+				["barName"] = "March"
+			},
+			[3.000000] = 
+			{
+				["barName"] = "Stance"
+			},
+			[4.000000] = 
+			{
+				["barName"] = "Recovery"
+			},
+			[5.000000] = 
+			{
+				["barName"] = "Javelins"
+			}
+		},
+		["nextBarId"] = 5.000000
+	}
+}

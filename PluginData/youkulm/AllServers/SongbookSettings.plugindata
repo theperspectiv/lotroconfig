@@ -1,0 +1,41 @@
+return 
+{
+	["WindowVisible"] = "no",
+	["DescriptionVisible"] = "no",
+	["DefaultCommand"] = "1",
+	["ToggleOpacity"] = "0.25",
+	["ToggleLeft"] = "1865",
+	["Commands"] = 
+	{
+		["1"] = 
+		{
+			["Title"] = "Now playing",
+			["Command"] = "/e is now playing %name"
+		},
+		["3"] = 
+		{
+			["Title"] = "Paste filename",
+			["Command"] = "/f %file"
+		},
+		["2"] = 
+		{
+			["Title"] = "Sync command to /f",
+			["Command"] = "/f /play %file sync %part"
+		}
+	},
+	["TracksHeight"] = "50",
+	["WindowOpacity"] = "0.9",
+	["WindowPosition"] = 
+	{
+		["Top"] = "249",
+		["Height"] = "734",
+		["Left"] = "1405",
+		["Width"] = "515"
+	},
+	["DescriptionFirst"] = "no",
+	["ToggleTop"] = "310",
+	["SearchVisible"] = "yes",
+	["ToggleVisible"] = "yes",
+	["TracksVisible"] = "no",
+	["DirHeight"] = "155"
+}

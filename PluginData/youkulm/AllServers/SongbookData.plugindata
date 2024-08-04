@@ -1,0 +1,868 @@
+return
+{
+	["Directories"] =
+	{
+		[1] = "/",
+		[2] = "/Band/",
+		[3] = "/TFL/",
+		[4] = "/Z/"
+	},
+	["Songs"] =
+	{
+		[1] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "catBass",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="catcradle (4:00)"
+				}
+			}
+		},
+		[2] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "catDrums",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="catcradle (3:49)"
+				}
+			}
+		},
+		[3] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "catleadLute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="catcradle (3:51)"
+				}
+			}
+		},
+		[4] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "catLute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="catcradle (4:00)"
+				}
+			}
+		},
+		[5] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "catsolo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="catcradle (4:00)"
+				}
+			}
+		},
+		[6] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "chainBass",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="chain (3:39)"
+				}
+			}
+		},
+		[7] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "chainDrums",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="chain (3:39)"
+				}
+			}
+		},
+		[8] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "chainLute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="chain (3:39)"
+				}
+			}
+		},
+		[9] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "dogbass",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="hairofthedog (2:46)"
+				}
+			}
+		},
+		[10] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "dogdrums",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="hairofthedog (3:26)"
+				}
+			}
+		},
+		[11] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "dogharp",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="hairofthedog (3:25)"
+				}
+			}
+		},
+		[12] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "doglute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="hairofthedog (3:26)"
+				}
+			}
+		},
+		[13] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "hotel1lute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="hotel_california (6:32)"
+				}
+			}
+		},
+		[14] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "hotel2lute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="hotel_california (6:32)"
+				}
+			}
+		},
+		[15] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "hotelbagpipe",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="hotel_california (4:22)"
+				}
+			}
+		},
+		[16] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "hotelbass",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="hotel_california (6:32)"
+				}
+			}
+		},
+		[17] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "hoteldrums",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="hotel_california (6:32)"
+				}
+			}
+		},
+		[18] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "kashBass",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="kashmir (8:06)"
+				}
+			}
+		},
+		[19] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "kashdrums",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="kashmir (8:06)"
+				}
+			}
+		},
+		[20] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "kashLute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="kashmir (8:06)"
+				}
+			}
+		},
+		[21] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "LoveBBass",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Def Leppard -- Love Bites (5:16)"
+				}
+			}
+		},
+		[22] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "LoveBDrums",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Def Leppard -- Love Bites (5:19)"
+				}
+			}
+		},
+		[23] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "LoveBLead",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Def Leppard -- Love Bites (5:15)"
+				}
+			}
+		},
+		[24] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "pagebass",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="turnthepage (4:56)"
+				}
+			}
+		},
+		[25] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "pagedrums",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="turnthepage (4:40)"
+				}
+			}
+		},
+		[26] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "pageLute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="turnthepage (4:54)"
+				}
+			}
+		},
+		[27] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "ringbagpipes",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="ringoffire (2:07)"
+				}
+			}
+		},
+		[28] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "ringBass",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="ringoffire (2:07)"
+				}
+			}
+		},
+		[29] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "ringDrums",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="ringoffire (2:07)"
+				}
+			}
+		},
+		[30] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "ringlutenopipes",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="ringoffire (2:07)"
+				}
+			}
+		},
+		[31] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "TheLinebass",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="IWalkTheLine (1:58)"
+				}
+			}
+		},
+		[32] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "TheLineDrums",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="IWalkTheLine (1:57)"
+				}
+			}
+		},
+		[33] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "TheLinelute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="IWalkTheLine (1:58)"
+				}
+			}
+		},
+		[34] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "Wall2Lute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="brikwall (3:42)"
+				}
+			}
+		},
+		[35] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "Wallbass",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="brikwall (3:42)"
+				}
+			}
+		},
+		[36] =
+		{
+			["Filepath"] = "/Band/",
+			["Filename"] = "WallLute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="brikwall (3:41)"
+				}
+			}
+		},
+		[37] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_Alegria-Alegria_Solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Cirque Du Soleil - Alegria (5:43)"
+				}
+			}
+		},
+		[38] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_APiratesLifeforMe!-APiratesLifeforMe!SoloLute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="A pirates life for me! (solo)"
+				}
+			},
+			["Transcriber"] = "COnfigured to ABC by Amonrohae"
+		},
+		[39] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_BattlestarGalactica-Soloforlute,fluteorbagpipes",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Battlestar Galactica (solo) [v.3 by Cranberry]"
+				}
+			}
+		},
+		[40] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_DannyBoy-SoloBagpipesonly!",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Danny Boy (Bagpipes Solo or with a group of Bagpipes for your funeral marches)"
+				}
+			}
+		},
+		[41] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_EineKleineNachtmusik-EineKleineNachtmusik,movement1,solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Eine Kleine Nachtmusik, Violin 1"
+				}
+			},
+			["Transcriber"] = "celestial",
+			["Artist"] = "Mozart"
+		},
+		[42] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_GrandToreadorMarch-Toreador,solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="2",
+					["Name"] ="Toreador Grand March from Carmen"
+				}
+			},
+			["Transcriber"] = "celestial",
+			["Artist"] = "Georges Bizet"
+		},
+		[43] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_Habanera,fromCarmen-Habanera,solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Habanera from Carmen"
+				}
+			},
+			["Transcriber"] = "celestial",
+			["Artist"] = "Bizet"
+		},
+		[44] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_LuxAeterna-LuxAeterna,solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Lux Aeterna"
+				}
+			},
+			["Transcriber"] = "celetial",
+			["Artist"] = "Clint Mansell"
+		},
+		[45] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_Megaman_BattleNetwork2_WWW-Area_Solo-solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="hm-mmbn2www (1:21)"
+				}
+			}
+		},
+		[46] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_Queenofwinter,throned-Luth,solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="COF-Queen Of Winter,Throned (8:57)"
+				}
+			}
+		},
+		[47] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_RhapsodyinBlue-Rhapsody,solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Rhapsody in Blue"
+				}
+			},
+			["Transcriber"] = "celestial",
+			["Artist"] = "George Gershwin"
+		},
+		[48] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_RikkiDontLoseThatNumber-SoloLuteorHarp,PreferrablyLute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="rikki dont lose that number (solo)"
+				}
+			},
+			["Transcriber"] = "Configured to ABC by Amonrohae"
+		},
+		[49] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_Singitback-Lute_solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="sing it back (Laute_solo) by Schnuckel for Yacksyh"
+				}
+			}
+		},
+		[50] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_SmokeOnTheWater--Vocals+Solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Deep_Smoke - FLUTE_Vocals+Solo (5:47)"
+				}
+			},
+			["Transcriber"] = "Meebongo of Brandywine presents:Deep Purple - Smoke On The Water"
+		},
+		[51] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_soloSonatainF-Flute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Baroque-solo Sonata in F (duo flute,harp) 1st Mov't (2:37)"
+				}
+			}
+		},
+		[52] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_soloSonatainF-harp",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Baroque-solo Sonata in F (duo flute,harp) 1st Mov't (2:37)"
+				}
+			}
+		},
+		[53] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_STUFF-Rhythm&Solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="STUFF (5:36)"
+				}
+			}
+		},
+		[54] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_SureKnowSomething-FLUTE_Vocals+Solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Kiss_Something - FLUTE_Vocals+Solo (3:58)"
+				}
+			},
+			["Transcriber"] = "Meebongo of Brandywine presents:Kiss - Sure Know Something"
+		},
+		[55] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_ToccataandFugueinDminor-ToccataandFugue,solo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Toccata and Fugue in D min"
+				}
+			},
+			["Transcriber"] = "celestial",
+			["Artist"] = "Bach"
+		},
+		[56] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_TomSawyer-3-part&solo-Drums",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Tom Sawyer lute (4:30)"
+				}
+			}
+		},
+		[57] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_TomSawyer-3-part&solo-Lute",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Tom Sawyer lute (4:35)"
+				}
+			}
+		},
+		[58] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_TomSawyer-3-part&solo-LuteorTheorboSolo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Tom Sawyer lute (4:35)"
+				}
+			}
+		},
+		[59] =
+		{
+			["Filepath"] = "/TFL/",
+			["Filename"] = "TFL_TomSawyer-3-part&solo-Theorbo",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Tom Sawyer lute (4:35)"
+				}
+			}
+		},
+		[60] =
+		{
+			["Filepath"] = "/Z/",
+			["Filename"] = "1 - All Along The Watchtower (Bob Dylan)",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="All Along The Watchtower (3:60)"
+				}
+			}
+		},
+		[61] =
+		{
+			["Filepath"] = "/Z/",
+			["Filename"] = "1 - Cat's In The Cradle (Harry Chapin)",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Cat's In The Cradle (4:00)"
+				}
+			}
+		},
+		[62] =
+		{
+			["Filepath"] = "/Z/",
+			["Filename"] = "1 - Zombie (Cranberries)",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="1",
+					["Name"] ="Zombie (3:18)"
+				}
+			}
+		},
+		[63] =
+		{
+			["Filepath"] = "/Z/",
+			["Filename"] = "5 - All Along The Watchtower (Bob Dylan)",
+			["Tracks"] =
+			{
+				[1] =
+				{
+					["Id"] ="5",
+					["Name"] ="All Along The Watchtower (3:59) drums"
+				},
+				[2] =
+				{
+					["Id"] ="3",
+					["Name"] ="All Along The Watchtower (3:60) bass"
+				},
+				[3] =
+				{
+					["Id"] ="1",
+					["Name"] ="All Along The Watchtower (3:57) horn"
+				},
+				[4] =
+				{
+					["Id"] ="4",
+					["Name"] ="All Along The Watchtower (3:60) lute"
+				},
+				[5] =
+				{
+					["Id"] ="2",
+					["Name"] ="All Along The Watchtower (3:60) bagpipe"
+				}
+			}
+		}
+	}
+}

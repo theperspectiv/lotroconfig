@@ -1,0 +1,19 @@
+return 
+{
+	["sFourType"] = "",
+	["sOneType"] = "",
+	["sFourCD"] = "30",
+	["sOneCD"] = "30",
+	["sTwoQty"] = "0",
+	["sThreeCD"] = "30",
+	["sTwoData"] = "",
+	["sTwoType"] = "",
+	["sFourQty"] = "0",
+	["sFourData"] = "",
+	["sThreeData"] = "",
+	["sOneData"] = "",
+	["sTwoCD"] = "30",
+	["sOneQty"] = "0",
+	["sThreeType"] = "",
+	["sThreeQty"] = "0"
+}

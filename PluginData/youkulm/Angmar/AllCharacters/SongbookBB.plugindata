@@ -1,0 +1,20 @@
+return 
+{
+	["Skills"] = 
+	{
+		["version"] = "1.0",
+		["aSkills"] = 
+		{
+
+		}
+	},
+	["Version"] = "1.0",
+	["Prios"] = 
+	{
+		["version"] = "1.0",
+		["aPrios"] = 
+		{
+
+		}
+	}
+}

@@ -1,0 +1,16 @@
+return 
+{
+	["ShowTimer"] = true,
+	["outOfCombatCriteria"] = "1",
+	["settingScope"] = "1",
+	["BarOpacity"] = "0.4",
+	["showOnlyInCombat"] = true,
+	["BarSpacing"] = "0.12",
+	["PositionY"] = "389",
+	["Version"] = "1",
+	["TextOpacity"] = "0.66",
+	["ClassSpecificPowerBar"] = false,
+	["PositionX"] = "700",
+	["showInGameVitals"] = false,
+	["ShowWarnings"] = true
+}

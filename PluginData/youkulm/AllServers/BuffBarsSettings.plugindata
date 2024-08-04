@@ -1,0 +1,448 @@
+return 
+{
+	["windows"] = 
+	{
+		["<num>1.000000</num>"] = 
+		{
+			["showEffectTarget"] = false,
+			["fillBottomToTop"] = true,
+			["barWidth"] = "<num>200.000000</num>",
+			["barOrder"] = 
+			{
+				["<num>3.000000</num>"] = "Cool Downs",
+				["<num>1.000000</num>"] = "Debuffs",
+				["<num>5.000000</num>"] = "Mob CC",
+				["<num>4.000000</num>"] = "Mob Debuffs",
+				["<num>2.000000</num>"] = "Buffs"
+			},
+			["showEffectDuration"] = false,
+			["posX"] = "<num>549.000000</num>",
+			["backgroundColor"] = 
+			{
+				["a"] = "<num>128.000000</num>",
+				["r"] = "<num>0.000000</num>",
+				["g"] = "<num>0.000000</num>",
+				["b"] = "<num>0.000000</num>"
+			},
+			["triggers"] = 
+			{
+				["<num>3.000000</num>"] = 
+				{
+					["template"] = "<num>5.000000</num>",
+					["type"] = "<num>3.000000</num>",
+					["name"] = "All Cool Downs",
+					["blacklist"] = false
+				},
+				["<num>1.000000</num>"] = 
+				{
+					["maxDuration"] = "<num>0.000000</num>",
+					["type"] = "<num>1.000000</num>",
+					["template"] = "<num>2.000000</num>",
+					["minDuration"] = "<num>0.000000</num>",
+					["target"] = "me",
+					["name"] = "All Debuffs",
+					["curable"] = false,
+					["blacklist"] = false
+				},
+				["<num>5.000000</num>"] = 
+				{
+					["maxDuration"] = "<num>0.000000</num>",
+					["type"] = "<num>5.000000</num>",
+					["template"] = "<num>7.000000</num>",
+					["minDuration"] = "<num>0.000000</num>",
+					["name"] = "All Mob CC",
+					["curable"] = false,
+					["blacklist"] = false
+				},
+				["<num>4.000000</num>"] = 
+				{
+					["maxDuration"] = "<num>0.000000</num>",
+					["type"] = "<num>4.000000</num>",
+					["template"] = "<num>6.000000</num>",
+					["minDuration"] = "<num>0.000000</num>",
+					["name"] = "All Mob Debuffs",
+					["curable"] = false,
+					["blacklist"] = false
+				},
+				["<num>2.000000</num>"] = 
+				{
+					["maxDuration"] = "<num>0.000000</num>",
+					["type"] = "<num>2.000000</num>",
+					["template"] = "<num>4.000000</num>",
+					["minDuration"] = "<num>0.000000</num>",
+					["target"] = "me",
+					["name"] = "All Buffs",
+					["curable"] = false,
+					["blacklist"] = false
+				}
+			},
+			["allowFlashing"] = true,
+			["barHeight"] = "<num>22.000000</num>",
+			["posY"] = "<num>1080.000000</num>",
+			["displayFormat"] = "<num>2.000000</num>",
+			["flashTime"] = "<num>15.000000</num>",
+			["visibleType"] = "<num>1.000000</num>",
+			["showEffectTimer"] = true,
+			["sortMethod"] = "<num>0.000000</num>",
+			["name"] = "BuffBars",
+			["font"] = "<num>1107296264.000000</num>",
+			["colors"] = 
+			{
+				["poison"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>28.000000</num>",
+						["g"] = "<num>226.000000</num>",
+						["r"] = "<num>64.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>28.000000</num>",
+						["g"] = "<num>226.000000</num>",
+						["r"] = "<num>64.000000</num>"
+					}
+				},
+				["flash"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>255.000000</num>",
+						["g"] = "<num>255.000000</num>",
+						["r"] = "<num>255.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>255.000000</num>",
+						["g"] = "<num>255.000000</num>",
+						["r"] = "<num>255.000000</num>"
+					}
+				},
+				["debuff"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>0.000000</num>",
+						["g"] = "<num>78.000000</num>",
+						["r"] = "<num>178.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>0.000000</num>",
+						["g"] = "<num>78.000000</num>",
+						["r"] = "<num>178.000000</num>"
+					}
+				},
+				["wound"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>29.000000</num>",
+						["g"] = "<num>29.000000</num>",
+						["r"] = "<num>255.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>29.000000</num>",
+						["g"] = "<num>29.000000</num>",
+						["r"] = "<num>255.000000</num>"
+					}
+				},
+				["fear"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>227.000000</num>",
+						["g"] = "<num>28.000000</num>",
+						["r"] = "<num>215.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>227.000000</num>",
+						["g"] = "<num>28.000000</num>",
+						["r"] = "<num>215.000000</num>"
+					}
+				},
+				["<num>64.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>227.000000</num>",
+						["g"] = "<num>28.000000</num>",
+						["r"] = "<num>215.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>227.000000</num>",
+						["g"] = "<num>28.000000</num>",
+						["r"] = "<num>215.000000</num>"
+					}
+				},
+				["disease"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>0.000000</num>",
+						["g"] = "<num>234.000000</num>",
+						["r"] = "<num>232.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>0.000000</num>",
+						["g"] = "<num>234.000000</num>",
+						["r"] = "<num>232.000000</num>"
+					}
+				},
+				["power"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>255.000000</num>",
+						["g"] = "<num>29.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>255.000000</num>",
+						["g"] = "<num>29.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					}
+				},
+				["cc"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>255.000000</num>",
+						["g"] = "<num>255.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>255.000000</num>",
+						["g"] = "<num>255.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					}
+				},
+				["<num>32.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					}
+				},
+				["<num>128.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>28.000000</num>",
+						["g"] = "<num>226.000000</num>",
+						["r"] = "<num>64.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>28.000000</num>",
+						["g"] = "<num>226.000000</num>",
+						["r"] = "<num>64.000000</num>"
+					}
+				},
+				["<num>16384.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					}
+				},
+				["morale"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>29.000000</num>",
+						["g"] = "<num>255.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>29.000000</num>",
+						["g"] = "<num>255.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					}
+				},
+				["<num>1024.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					}
+				},
+				["<num>2.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>0.000000</num>",
+						["g"] = "<num>234.000000</num>",
+						["r"] = "<num>232.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>0.000000</num>",
+						["g"] = "<num>234.000000</num>",
+						["r"] = "<num>232.000000</num>"
+					}
+				},
+				["<num>16.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					}
+				},
+				["<num>0.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					}
+				},
+				["<num>512.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					}
+				},
+				["<num>4.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>254.000000</num>",
+						["g"] = "<num>121.000000</num>",
+						["r"] = "<num>0.000000</num>"
+					}
+				},
+				["<num>8.000000</num>"] = 
+				{
+					["elapsed"] = 
+					{
+						["a"] = "<num>102.000000</num>",
+						["b"] = "<num>29.000000</num>",
+						["g"] = "<num>29.000000</num>",
+						["r"] = "<num>255.000000</num>"
+					},
+					["remaining"] = 
+					{
+						["a"] = "<num>255.000000</num>",
+						["b"] = "<num>29.000000</num>",
+						["g"] = "<num>29.000000</num>",
+						["r"] = "<num>255.000000</num>"
+					}
+				}
+			},
+			["showEffectName"] = true,
+			["sortAscending"] = true,
+			["enabled"] = true,
+			["scope"] = "<num>1.000000</num>",
+			["showEffectIcon"] = true
+		}
+	},
+	["quickslots"] = 
+	{
+
+	},
+	["version"] = "<num>1.000000</num>",
+	["sliders"] = 
+	{
+
+	}
+}

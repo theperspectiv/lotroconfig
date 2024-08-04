@@ -1,0 +1,13 @@
+return 
+{
+	["ShowFlash"] = false,
+	["IndicatorOpacity"] = "0.24",
+	["WoundCooldown"] = "30",
+	["DebuffBarOpacity"] = "0.2",
+	["DebuffDisplayMode"] = "2",
+	["PoisonCooldown"] = "30",
+	["VerticalPosition"] = "0.16",
+	["ShowDebuff"] = true,
+	["DiseaseCooldown"] = "30",
+	["FearCooldown"] = "30"
+}

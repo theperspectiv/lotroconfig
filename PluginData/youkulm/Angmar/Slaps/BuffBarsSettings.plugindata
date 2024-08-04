@@ -1,0 +1,218 @@
+return 
+{
+	["log"] = 
+	{
+		["enabled"] = false,
+		["logName"] = true,
+		["logId"] = true,
+		["logCurable"] = true,
+		["logCategory"] = true,
+		["showDebuffs"] = true,
+		["showBuffs"] = true,
+		["logDebuff"] = true,
+		["logDescription"] = true,
+		["logTarget"] = true,
+		["showMobDebuffs"] = true,
+		["logDuration"] = true,
+		["logTime"] = true,
+		["showMobCC"] = true
+	},
+	["version"] = "<num>13.000000</num>",
+	["sliders"] = 
+	{
+		["<num>1.000000</num>"] = 
+		{
+			["fontColor"] = 
+			{
+				["a"] = "<num>255.000000</num>",
+				["b"] = "<num>255.000000</num>",
+				["g"] = "<num>255.000000</num>",
+				["r"] = "<num>255.000000</num>"
+			},
+			["barHeight"] = "<num>36.000000</num>",
+			["posX"] = "<num>781.000000</num>",
+			["backgroundColor"] = 
+			{
+				["a"] = "<num>40.000000</num>",
+				["b"] = "<num>254.000000</num>",
+				["g"] = "<num>121.000000</num>",
+				["r"] = "<num>0.000000</num>"
+			},
+			["timeMax"] = "<num>180.000000</num>",
+			["enabled"] = false,
+			["posY"] = "<num>869.000000</num>",
+			["displayFormat"] = "<num>2.000000</num>",
+			["scope"] = "<num>2.000000</num>",
+			["showEffectTimer"] = true,
+			["font"] = "<num>1107296264.000000</num>",
+			["borderColor"] = 
+			{
+				["a"] = "<num>255.000000</num>",
+				["b"] = "<num>254.000000</num>",
+				["g"] = "<num>121.000000</num>",
+				["r"] = "<num>0.000000</num>"
+			},
+			["visibleType"] = "<num>4.000000</num>",
+			["name"] = "BuffBars",
+			["fontOutlineColor"] = 
+			{
+				["a"] = "<num>255.000000</num>",
+				["b"] = "<num>0.000000</num>",
+				["g"] = "<num>0.000000</num>",
+				["r"] = "<num>0.000000</num>"
+			},
+			["orientation"] = "<num>1.000000</num>",
+			["timeCompression"] = "<num>0.350000</num>",
+			["triggers"] = 
+			{
+				["<num>3.000000</num>"] = 
+				{
+					["template"] = "<num>5.000000</num>",
+					["type"] = "<num>3.000000</num>",
+					["name"] = "All Cool Downs",
+					["blacklist"] = false
+				},
+				["<num>1.000000</num>"] = 
+				{
+					["maxDuration"] = "<num>0.000000</num>",
+					["type"] = "<num>1.000000</num>",
+					["template"] = "<num>2.000000</num>",
+					["minDuration"] = "<num>0.000000</num>",
+					["target"] = "me",
+					["name"] = "All Debuffs",
+					["curable"] = false,
+					["blacklist"] = false
+				},
+				["<num>5.000000</num>"] = 
+				{
+					["maxDuration"] = "<num>0.000000</num>",
+					["type"] = "<num>5.000000</num>",
+					["template"] = "<num>7.000000</num>",
+					["minDuration"] = "<num>0.000000</num>",
+					["name"] = "All Mob CC",
+					["curable"] = false,
+					["blacklist"] = false
+				},
+				["<num>4.000000</num>"] = 
+				{
+					["maxDuration"] = "<num>0.000000</num>",
+					["type"] = "<num>4.000000</num>",
+					["template"] = "<num>6.000000</num>",
+					["minDuration"] = "<num>0.000000</num>",
+					["name"] = "All Mob Debuffs",
+					["curable"] = false,
+					["blacklist"] = false
+				},
+				["<num>2.000000</num>"] = 
+				{
+					["maxDuration"] = "<num>0.000000</num>",
+					["type"] = "<num>2.000000</num>",
+					["template"] = "<num>4.000000</num>",
+					["minDuration"] = "<num>0.000000</num>",
+					["target"] = "me",
+					["name"] = "All Buffs",
+					["curable"] = false,
+					["blacklist"] = false
+				}
+			},
+			["barWidth"] = "<num>400.000000</num>"
+		}
+	},
+	["windows"] = 
+	{
+
+	},
+	["quickslots"] = 
+	{
+		["<num>1.000000</num>"] = 
+		{
+			["enabled"] = false,
+			["quickslotSpacing"] = "<num>5.000000</num>",
+			["quickslotSize"] = "<num>36.000000</num>",
+			["scope"] = "<num>2.000000</num>",
+			["qsX"] = "<num>958.500000</num>",
+			["visibleType"] = "<num>1.000000</num>",
+			["name"] = "Quickslots",
+			["qsY"] = "<num>727.000000</num>",
+			["triggers"] = 
+			{
+				["<num>3.000000</num>"] = 
+				{
+					["hasEffect"] = true,
+					["name"] = "Poison",
+					["category"] = "<num>128.000000</num>",
+					["shortcuts"] = 
+					{
+
+					},
+					["template"] = "<num>4.000000</num>",
+					["triggerType"] = "<num>1.000000</num>",
+					["isCurable"] = true
+				},
+				["<num>6.000000</num>"] = 
+				{
+					["threshold"] = "<num>0.300000</num>",
+					["name"] = "Power",
+					["shortcuts"] = 
+					{
+
+					},
+					["level"] = "<num>2.000000</num>",
+					["triggerType"] = "<num>2.000000</num>",
+					["template"] = "<num>7.000000</num>"
+				},
+				["<num>1.000000</num>"] = 
+				{
+					["hasEffect"] = true,
+					["name"] = "Disease",
+					["category"] = "<num>2.000000</num>",
+					["shortcuts"] = 
+					{
+
+					},
+					["template"] = "<num>2.000000</num>",
+					["triggerType"] = "<num>1.000000</num>",
+					["isCurable"] = true
+				},
+				["<num>5.000000</num>"] = 
+				{
+					["threshold"] = "<num>0.300000</num>",
+					["name"] = "Morale",
+					["shortcuts"] = 
+					{
+
+					},
+					["level"] = "<num>1.000000</num>",
+					["triggerType"] = "<num>2.000000</num>",
+					["template"] = "<num>6.000000</num>"
+				},
+				["<num>4.000000</num>"] = 
+				{
+					["hasEffect"] = true,
+					["name"] = "Wound",
+					["category"] = "<num>8.000000</num>",
+					["shortcuts"] = 
+					{
+
+					},
+					["template"] = "<num>5.000000</num>",
+					["triggerType"] = "<num>1.000000</num>",
+					["isCurable"] = true
+				},
+				["<num>2.000000</num>"] = 
+				{
+					["hasEffect"] = true,
+					["name"] = "Fear",
+					["category"] = "<num>64.000000</num>",
+					["shortcuts"] = 
+					{
+
+					},
+					["template"] = "<num>3.000000</num>",
+					["triggerType"] = "<num>1.000000</num>",
+					["isCurable"] = true
+				}
+			}
+		}
+	}
+}

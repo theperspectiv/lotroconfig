@@ -1,0 +1,14 @@
+return 
+{
+	["enabled"] = true,
+	["morale_data"] = "",
+	["power_data"] = "",
+	["morale_threshold"] = "0.3",
+	["power_threshold"] = "0.3",
+	["morale_cooldown"] = "120",
+	["morale_type"] = "",
+	["power_type"] = "",
+	["mode"] = "1",
+	["display_mode"] = "1",
+	["power_cooldown"] = "120"
+}

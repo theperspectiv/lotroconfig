@@ -1,0 +1,91 @@
+return 
+{
+	["FiltersState"] = "true",
+	["WindowVisible"] = "no",
+	["ShowAllBtns"] = "false",
+	["Assign"] = 
+	{
+		["wndSkills"] = 
+		{
+			["visible"] = "no",
+			["pos"] = 
+			{
+				["Top"] = "300",
+				["Height"] = "550",
+				["Left"] = "430",
+				["Width"] = "400"
+			}
+		},
+		["wndAssign"] = 
+		{
+			["visible"] = "no",
+			["pos"] = 
+			{
+				["Top"] = "0",
+				["Height"] = "300",
+				["Left"] = "430",
+				["Width"] = "400"
+			},
+			["targetChat"] = "g",
+			["listOrderBy"] = "n"
+		},
+		["wndPrios"] = 
+		{
+			["visible"] = "no",
+			["playerFilter"] = "c",
+			["pos"] = 
+			{
+				["Top"] = "0",
+				["Height"] = "300",
+				["Left"] = "830",
+				["Width"] = "400"
+			}
+		}
+	},
+	["SongsHeight"] = "336",
+	["WindowPosition"] = 
+	{
+		["Top"] = "88",
+		["Height"] = "705",
+		["Left"] = "1038",
+		["Width"] = "632"
+	},
+	["DescriptionFirst"] = "no",
+	["SearchVisible"] = "yes",
+	["InstrsHeight"] = "40",
+	["ToggleOpacity"] = "0.25",
+	["ChiefMode"] = "true",
+	["DefaultCommand"] = "1",
+	["Commands"] = 
+	{
+		["1"] = 
+		{
+			["Title"] = "Now playing",
+			["Command"] = "/e is now playing %name"
+		},
+		["3"] = 
+		{
+			["Title"] = "Paste filename",
+			["Command"] = "/f %file"
+		},
+		["2"] = 
+		{
+			["Title"] = "Sync command to /f",
+			["Command"] = "/f /play %file sync %part"
+		}
+	},
+	["DescriptionVisible"] = "no",
+	["ToggleLeft"] = "1883",
+	["ReadyColHighlight"] = "false",
+	["TracksHeight"] = "50",
+	["TimerState"] = "true",
+	["Version"] = "1.0",
+	["WindowOpacity"] = "0.9",
+	["ReadyColState"] = "true",
+	["PartyState"] = "true",
+	["ToggleTop"] = "598",
+	["TracksVisible"] = "no",
+	["ToggleVisible"] = "yes",
+	["DirHeight"] = "102",
+	["TimerCountdown"] = "true"
+}

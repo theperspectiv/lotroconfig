@@ -1,0 +1,17 @@
+return 
+{
+	["LM_Igr"] = "30",
+	["MezBarShowTimer"] = true,
+	["MezBarVertical"] = "0.06",
+	["MN_Sol"] = "30",
+	["CA_Trk"] = "30",
+	["RK_Heal"] = "30",
+	["MezBarOpacity"] = "0.16",
+	["MezBarTimerTick"] = "60",
+	["RK_Ice"] = "20",
+	["CA_Rid"] = "30",
+	["MezBarAutoSearch"] = true,
+	["LM_Cmd"] = "30",
+	["LM_Mez"] = "30",
+	["MezBarShow"] = true
+}
